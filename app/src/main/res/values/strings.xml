@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts Book</string>
+    <string name="etName">Full name*</string>
+    <string name="etTel">Phone*</string>
+    <string name="etEmail">Email</string>
+    <string name="etDes">Description</string>
+    <string name="tvDate">dd/mmm/aaaa</string>
+    <string name="btnSetDate">SET BIRTHDAY</string>
+    <string name="btnNxt">Next</string>
+    <string name="btnEdit">Edit</string>
+    <string name="confirm">Confirm Data</string>
+</resources>
